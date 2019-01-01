@@ -1,0 +1,7 @@
+C:\Users\Oscar\Desktop\11593623\11593623\bin\11593623.dll
+C:\Users\Oscar\Desktop\11593623\11593623\bin\11593623.pdb
+C:\Users\Oscar\Desktop\11593623\11593623\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\11593623\11593623\obj\Debug\11593623.dll
+C:\Users\Oscar\Desktop\11593623\11593623\obj\Debug\11593623.pdb
+C:\Users\Oscar\Desktop\11593623\11593623\bin\11593623_be.dll
+C:\Users\Oscar\Desktop\11593623\11593623\bin\11593623_be.pdb

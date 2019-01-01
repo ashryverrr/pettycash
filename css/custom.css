@@ -1,0 +1,50 @@
+textarea {
+   resize: none;
+}
+
+@media print{
+	
+	body {
+      color: #000;
+      background: #fff;
+      width: 100%;
+      height: 100%;
+      display: block; 
+      font-family: "Calibri";
+      margin: 0 0 0 0;    
+    }
+
+    #button {
+		display: none;
+	}
+
+	table .footer_table tr td {
+	 border: none !important;
+	 zoom: 1    
+  	 padding: 0; /* 'cellpadding' equivalent */
+
+	} 
+
+	#doNOTprint{
+		display: none;
+	}
+
+	img {
+   	   max-width: 100% !important;
+	}
+
+	table, figure {
+	  page-break-inside: avoid;
+	}
+
+	@page {
+	size: 80mm 297mm;
+	margin: 0mm;
+	}
+
+	title{
+		display: none;
+	}
+
+
+}
